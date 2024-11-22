@@ -1,12 +1,12 @@
-## Hi there, I'm HanHee👋
-
+## Hi there, I'm HanHee👋 
+## - 🌱 I’m currently learning Art&Tech at Chung-Ang University
+## - 📫 How to reach me: 01024098447, haani8447@gmail.com
 <!--
 **gksgml/gksgml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-## - 🌱 I’m currently learning Art&Tech at Chung-Ang University
-## - 📫 How to reach me: 01024098447, haani8447@gmail.com
+
 
 -->
 
