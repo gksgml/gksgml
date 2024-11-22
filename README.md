@@ -2,6 +2,8 @@
 # I'm a 20_year_old student living in South Korea
 ### 🌱 I’m currently learning Art&Tech at Chung-Ang University
 ### 📫 How to reach me: 01024098447, haani8447@gmail.com
+### Learn and study Python, C++, and Adobe
+### Interested in directing, design, editing, and art
 <!--
 **gksgml/gksgml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
