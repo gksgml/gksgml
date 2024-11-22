@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgksgml&count_bg=%23AE8EFF&title_bg=%2392B4FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=transparent)
-type=slice&color=gradient&text=%20HanHee%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20HanHee&fontSize=90)
 
 ## Hi there, I'm HanHee👋
 
