@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gksgml&theme=modern-lilac2)](https://git.io/streak-stats)
 
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## Hi there, I'm HanHee👋
 
