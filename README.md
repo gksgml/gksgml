@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=400&section=header&text=%20HanHee&fontSize=90)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=gksgml&theme=modern-lilac2)](https://git.io/streak-stats)
 
 ## Hi there, I'm HanHee👋
 
