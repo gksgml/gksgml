@@ -1,5 +1,8 @@
 # Hi there, I'm HanHee👋 
-# I'm a 20_year_old student living in South Korea
+## I'm a 20_year_old student living in South Korea
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EF76FF&title_bg=%23FFEE00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 🌱 I’m currently learning Art&Tech at Chung-Ang University
 ### 📫 How to reach me: 01024098447, haani8447@gmail.com
 ### Learn and study Python, C++, and Adobe
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EF76FF&title_bg=%23FFEE00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=400&section=header&text=%20HanHee&fontSize=90)
 
