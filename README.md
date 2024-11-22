@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Art&Tech at Chung-Ang University
-- 📫 How to reach me: 01024098447, haani8447@gmail.com
+##- 🌱 I’m currently learning Art&Tech at Chung-Ang University
+##- 📫 How to reach me: 01024098447, haani8447@gmail.com
 
 -->
 
