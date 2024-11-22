@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=%20HanHee&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=%20HanHee&fontSize=60)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gksgml&theme=modern-lilac2)](https://git.io/streak-stats)
 
 
