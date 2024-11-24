@@ -8,7 +8,7 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 ### 🌱 I’m currently learning Art&Tech at Chung-Ang University
-### 📫 How to reach me: 01024098447, haani8447@gmail.com
+### 📫 How to reach me: haani8447@gmail.com
 ### Learn and study Python, C++, and Adobe
 ### Interested in directing, design, editing, and art
 <!--
